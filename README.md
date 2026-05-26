@@ -33,7 +33,7 @@ The PDF included in this repository provides step-by-step documentation of each 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BurpSuite-JuiceShop-Pentesting.git
+   git clone https://github.com/C0deRhin0/juiceshop-penetration.git
    ```
 
 2. Follow the steps in the documentation PDF to:
